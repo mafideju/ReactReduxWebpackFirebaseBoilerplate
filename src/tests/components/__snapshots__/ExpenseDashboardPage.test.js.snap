@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EXPENSE-DASHBOARD-PAGE COMPONENT TESTING 1`] = `
+<div>
+  Dashboard Component
+  <Connect(ExpenseList) />
+  <Connect(ExpenseListFilters) />
+  <Connect(ExpensesSummary) />
+</div>
+`;

@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EXPENSELIST COM EXPENSES 1`] = `
+<div>
+  <ExpenseListItem
+    amount={1200}
+    createdAt={0}
+    description="Aluguel"
+    id="1"
+    key="1"
+    note=""
+  />
+  <ExpenseListItem
+    amount={550}
+    createdAt={-345600000}
+    description="Mercado"
+    id="2"
+    key="2"
+    note=""
+  />
+  <ExpenseListItem
+    amount={280}
+    createdAt={345600000}
+    description="Contas de Consumo"
+    id="3"
+    key="3"
+    note=""
+  />
+</div>
+`;
+
+exports[`EXPENSELIST SEM EXPENSES 1`] = `
+<div>
+  <h3>
+    Adicione Uma Despesa para 
+    <Link
+      replace={false}
+      to="/create"
+    >
+      Começar sua Carteira
+    </Link>
+  </h3>
+</div>
+`;

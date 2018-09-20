@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EXPENSE LIST ITEM TEST SUITE 1`] = `
+<div>
+  <Link
+    replace={false}
+    to="/edit/1"
+  >
+    <h3>
+      Aluguel
+    </h3>
+  </Link>
+  <p>
+    Valor: R$12.00 Reais
+     -
+     
+    Vencimento: 31/12/1969
+  </p>
+</div>
+`;
